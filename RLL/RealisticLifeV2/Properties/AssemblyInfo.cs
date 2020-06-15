@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RealisticLifeRP Official Launcher")]
-[assembly: AssemblyDescription("RealisticLifeRP Official Launcher (CRACKED)")]
+[assembly: AssemblyTitle("TIRS Official Launcher")]
+[assembly: AssemblyDescription("Made by ArchX (The Professor)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Realistic Life")]
-[assembly: AssemblyProduct("RealisticLifeRP Official Launcher")]
-[assembly: AssemblyCopyright("Copyright ©  RealisticLifeRP Company 2020")]
+[assembly: AssemblyCompany("TIRS")]
+[assembly: AssemblyProduct("TIRS Official Launcher")]
+[assembly: AssemblyCopyright("Copyright © Archit (The Professor)")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 // CRACKED BY KOSTA [REALISTICLIFERP 2020]
